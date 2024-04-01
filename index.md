@@ -8,7 +8,7 @@ TODO application is a simple end-to-end web application that enables users to ad
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/achindas/todoMicroservices)
 
-<center><img src="assets/img/TodoAppArchitecture_V1.0.jpg" width=100% ></center>
+<center><img src="assets/img/TodoAppArchitecture_V1.0.jpg" width="100%" ></center>
 <hr>
 
 ### TODO Application - Angular Frontend
@@ -17,5 +17,5 @@ The <img src="assets/img/angular.png" width="25px" > web app provides a simple u
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/achindas/todoAngular)
 
-<center><img src="assets/img/to-do-list.jpeg" width=100% height=250 ></center>
+<center><img src="assets/img/to-do-list.jpeg" width="100%" height="250" ></center>
 <hr>
