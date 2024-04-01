@@ -1,5 +1,5 @@
 title: <p align="center"> Achin Das </p>
-logo: assets/img/Profile.png
+logo: <img src="assets/img/Profile.png" width="150" height="200" />
 
 description:
   <p align="center">
