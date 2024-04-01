@@ -3,12 +3,13 @@
 ## RESTfull Microservices Applications
 
 ### TODO Application - Spring Boot Backend
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+
+TODO application is a simple end-to-end web application that enables users to add, modify and delete TODO items. The backend has been developed as RESTful microservices using Spring Boot. It implements JWT token based security mechanism. The TODO microservice is accessed through Spring Cloud API Gateway. The scalability, maintainability, configurability, traceability best practices have been implemented as per the below architecture disgram.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/achindas/todoMicroservices)
 
-<center><img src="images/TodoAppArchitecture_V1.0.jpg"/></center>
-
+<center><img src="assets/img/TodoAppArchitecture_V1.0.jpg"/></center>
+<hr>
 
 
 > This is a blockquote following a header.
