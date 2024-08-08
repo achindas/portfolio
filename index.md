@@ -34,3 +34,12 @@ Lending Club case study aims to analyse the data available with a NBFC regarding
 
 <center><img src="assets/img/LendingClubCharts_3.png" width="100%" ></center>
 <hr>
+
+### Bike Share Demand Forecasting - Multi Linear Regression
+
+This exercise aims to determine the factors that affect the demand for shared bikes in the American market. The factors mostly relate to local weather such as temperature, wind speed, month of the year, cloudy vs. rainy day, seasons etc. Multiple Linear Regression (MLR) that models a linear relationship between a **numeric target variable** and one or more predictor variables, has been utilized in this case study in a step-by-step manner to understand, analyse, transform and model the data provided for the analysis.  
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/achindas/BikeShareLRModel)
+
+<center><img src="assets/img/BikeShareImg.png" alt="Courtesy:vecteezy.com" width="100%" ></center>
+<hr>
