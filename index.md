@@ -19,3 +19,16 @@ The <img src="assets/img/angular.png" width="25px" > web app provides a simple u
 
 <center><img src="assets/img/to-do-list.jpeg" width="100%" height="250" ></center>
 <hr>
+
+# Data Science Portfolio
+
+## Machine Learning Models
+
+### Lending Club Case - Exploratory Data Analysis
+
+Lending Club case study aims to analyse the data available with a NBFC regarding past loans and identify those factors which are strong indicators of loan defaults. Exploratory Data Analysis (EDA) techniques have been used here after appropriate data cleaning & transformation. Extensive **univariate, bivariate and multi-variate analysis** have been done for numerical (histplot/ boxplot/ heatmap) and categorical (countplot/ barplot) variables to determine the key factors.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/achindas/LendingClubDataAnalysis)
+
+<center><img src="assets/img/LendingClubCharts_3.png" width="100%" ></center>
+<hr>
