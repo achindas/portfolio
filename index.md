@@ -43,3 +43,12 @@ This exercise aims to determine the factors that affect the demand for shared bi
 
 <center><img src="assets/img/BikeShareImg.png" alt="Courtesy:vecteezy.com" width="100%" ></center>
 <hr>
+
+### Digits Recognition - Support Vector Machine Classification
+
+A classic problem in the field of pattern recognition is that of handwritten digit recognition. Here we have used Support Vector Machine (SVM) model to classify images of handwritten digits ranging from 0-9 written by various people in boxes of a specific size. The 'pixel values' of each digit (image) comprise the features, and the actual number between 0-9 is the label. The developed SVM model **created a hyperplane classifier** that is able to predict a handwritten digit with an impressive sensitivity of 94%. 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/achindas/DigitRecognitionSVModel)
+
+<center><img src="assets/img/DigitRecogSVM.png" width="100%" ></center>
+<hr>
