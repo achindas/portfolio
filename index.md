@@ -52,3 +52,12 @@ A classic problem in the field of pattern recognition is that of handwritten dig
 
 <center><img src="assets/img/DigitRecogSVM.png" width="100%" ></center>
 <hr>
+
+### Telecom Churn - Logistic Regression Classification
+
+This exercise aims to predict customer churn in a Telecom Firm using demographic, service usage, and expense data, with **churn** being a binary target variable for each customer. A multivariate logistic regression model was built for this purpose. An optimal probability cutoff of 0.3 was arrived at to achieve the model's sensitivity at 78% and accuracy at 77%. The model was found to be stable with test data, showing similar sensitivity (0.72) and specificity (0.749) scores, indicating it was not overfitting. 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/achindas/TelecomChurnMLRModel)
+
+<center><img src="assets/img/TelcoChurnMLR.png" width="100%" ></center>
+<hr>
