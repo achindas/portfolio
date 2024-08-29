@@ -61,3 +61,12 @@ This exercise aims to predict customer churn in a Telecom Firm using demographic
 
 <center><img src="assets/img/TelcoChurnMLR.png" width="100%" ></center>
 <hr>
+
+### Sentiment Analysis - Naive Bayes Classification
+
+Naive Bayes is a simple yet powerful classification technique, especially useful for text classification and categorical data. The model has been applied on the first widely-available **sentiment analysis** datasets compiled by Pang and Lee's in 2002. The model works by identifying specific words that tend to show up in positive or negative reviews. An **accuracy** score of 83% has been achieved through this Multinomial Naive Bayes model.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/achindas/SentimentAnalysisNBModel)
+
+<center><img src="assets/img/SentAnalysisNB.png" width="100%" ></center>
+<hr>
