@@ -70,3 +70,12 @@ Naive Bayes is a simple yet powerful classification technique, especially useful
 
 <center><img src="assets/img/SentAnalysisNB.png" width="100%" ></center>
 <hr>
+
+### Heart Disease Prediction - Decision Tree & Random Forest Classification
+
+Random Forest is a versatile machine learning algorithm that excels in both classification and regression problems. In this exercise, a Random Forest model with 30 estimators (Decision Trees) and hyperparameters such as max_depth, max_features, min_samples_leaf etc. was developed to predict the **likelihood of heart disease**. The final model achieved a **test accuracy score of 0.83**, indicating good predictive performance with no signs of overfitting.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/achindas/HeartDiseaseRFModel)
+
+<center><img src="assets/img/HeartDiseaseRF.png" width="100%" ></center>
+<hr>
