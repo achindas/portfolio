@@ -82,7 +82,7 @@ Random Forest is a versatile machine learning algorithm that excels in both clas
 
 ### Melanoma Detection - CNN Classification
 
-A Convolutional Neural Network (CNN) is a specialized deep learning model designed for processing grid-like data structures, such as images. Unlike traditional neural networks, CNNs leverage spatial relationships between pixels to extract important features (edges, textures, patterns) automatically. In this exercise, class-wise data imbalance issue was addressed by augmenting each class with additional images. This helped improving the accuracies above 80%.
+A Convolutional Neural Network (CNN) is a specialized deep learning model designed for processing grid-like data structures, such as images. Unlike traditional neural networks, CNNs leverage **spatial relationships** between pixels to extract important features (edges, textures, patterns) automatically. In this exercise, **class-wise data imbalance** issue was addressed by augmenting each class with additional images. This helped improving the accuracies above 80%.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/achindas/MelanomaDetectCNNModel)
 
