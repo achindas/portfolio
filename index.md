@@ -108,3 +108,14 @@ Recurrent Neural Networks (RNNs) are a class of neural networks designed for **p
 
 <center><img src="assets/img/GestureRecogRNNModel.png" width="100%" ></center>
 <hr>
+
+## Natural Language Processing (NLP) Models
+
+### Healthcare Entities Recognition - CRF-based Solution
+
+Conditional Random Fields (CRF) models excel in capturing **contextual dependencies** and structured relationships, making them particularly suitable for tasks like extracting named entities from texts. In this exercise, The model demonstrated very good performance, achieving an impressive **F1-score of 91.96%**, indicating high accuracy and robustness in recognising diseases and related treatments.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/achindas/EntityRecogCRFModel)
+
+<center><img src="assets/img/EntityRecogCRFModel.png" width="100%" ></center>
+<hr>
