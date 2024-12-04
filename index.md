@@ -80,6 +80,17 @@ Random Forest is a versatile machine learning algorithm that excels in both clas
 <center><img src="assets/img/HeartDiseaseRF.png" width="100%" ></center>
 <hr>
 
+### Telecom Churn Prediction - Boosting-based Classification
+
+Boosting is an **ensemble learning technique** that aims to combine the predictions of several weak learners (typically decision trees) to create a strong learner. The central idea is to sequentially train models, with each subsequent model focusing on correcting the errors made by the previous ones. For this telecom churn prediction exercise, higher **Recall score** was given importance keeping the business context in mind and **Gradient Boost** model showed a better performance.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/achindas/TelecomChurnBoostModels)
+
+<center><img src="assets/img/TelecomChurnBoostModels.png" width="100%" ></center>
+<hr>
+
+## Deep Learning Models
+
 ### Melanoma Detection - CNN Classification
 
 A Convolutional Neural Network (CNN) is a specialized deep learning model designed for processing grid-like data structures, such as images. Unlike traditional neural networks, CNNs leverage **spatial relationships** between pixels to extract important features (edges, textures, patterns) automatically. In this exercise, **class-wise data imbalance** issue was addressed by augmenting each class with additional images. This helped improving the accuracies above 80%.
@@ -89,11 +100,11 @@ A Convolutional Neural Network (CNN) is a specialized deep learning model design
 <center><img src="assets/img/MelanomaDetectCNN.png" width="100%" ></center>
 <hr>
 
-### Telecom Churn Prediction - Boosting-based Classification
+### Television Gesture Recognition - CNN-RNN (GRU) Classification
 
-Boosting is an **ensemble learning technique** that aims to combine the predictions of several weak learners (typically decision trees) to create a strong learner. The central idea is to sequentially train models, with each subsequent model focusing on correcting the errors made by the previous ones. For this telecom churn prediction exercise, higher **Recall score** was given importance keeping the business context in mind and **Gradient Boost** model showed a better performance.
+Recurrent Neural Networks (RNNs) are a class of neural networks designed for **processing sequential data**, such as time series, text, or video frames. The RNN GRU model is a specialised RNN that uses gating mechanisms, specifically **reset and update gates**, to mitigate issues like the vanishing gradient problem. After experimenting with Conv3D and CNN+RNN based models, a CNN-GRU model was finalised for gesture recognition, achieving a strong performance with a validation accuracy of 0.9.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/achindas/TelecomChurnBoostModels)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/achindas/GestureRecogRNNModel)
 
-<center><img src="assets/img/TelecomChurnBoostModels.png" width="100%" ></center>
+<center><img src="assets/img/GestureRecogRNNModel.png" width="100%" ></center>
 <hr>
