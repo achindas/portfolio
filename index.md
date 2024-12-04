@@ -88,3 +88,12 @@ A Convolutional Neural Network (CNN) is a specialized deep learning model design
 
 <center><img src="assets/img/MelanomaDetectCNN.png" width="100%" ></center>
 <hr>
+
+### Telecom Churn Prediction - Boosting-based Classification
+
+Boosting is an **ensemble learning technique** that aims to combine the predictions of several weak learners (typically decision trees) to create a strong learner. The central idea is to sequentially train models, with each subsequent model focusing on correcting the errors made by the previous ones. For this telecom churn prediction exercise, higher **Recall score** was given importance keeping the business context in mind and **Gradient Boost** model showed a better performance.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/achindas/TelecomChurnBoostModels)
+
+<center><img src="assets/img/TelecomChurnBoostModels.png" width="100%" ></center>
+<hr>
