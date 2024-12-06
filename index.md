@@ -89,6 +89,15 @@ Boosting is an **ensemble learning technique** that aims to combine the predicti
 <center><img src="assets/img/TelecomChurnBoostModels.png" width="100%" ></center>
 <hr>
 
+### Retail Customer Segmentation - K-Means and Hierarchical Models
+
+Clustering is an **unsupervised machine learning technique** used to group similar data points into clusters based on their inherent characteristics. Two commonly used clustering algorithms are **K-Means** and **Hierarchical Clustering**. This clustering exercise has  provided valuable insights into **customer segmentation** for the online retail company - it identified distinct customer groups with varying spending behaviors.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/achindas/CustSegmentClusterModel)
+
+<center><img src="assets/img/CustSegmentClusterModel.png" width="100%" ></center>
+<hr>
+
 ## Deep Learning Models
 
 ### Melanoma Detection - CNN Classification
