@@ -1,3 +1,16 @@
+# Program Management Portfolio
+
+## Application Delivery Management
+
+### Custom Application Delivery Management Framework
+
+A **Program Management Framework** serves as a structured approach to plan, organize, execute, and monitor all aspects of a custom application delivery program. My 25+ years of experience in managing application development projects have gone into creating this framework that can jump-start any new program from scratch. The framework covers **17 core functional areas** with functional areas broken down into key activities and supporting tasks in the form of <a href="docs/Delivery_Management_Framework_Overview.pdf">a MS Excel WBS.</a>
+
+<center><img src="assets/img/DeliveryMgmtFrmwrk.png" width="100%" ></center>
+<hr>
+
+<br>
+
 # Application Development Portfolio
 
 ## RESTfull Microservices Applications
@@ -98,6 +111,8 @@ Clustering is an **unsupervised machine learning technique** used to group simil
 <center><img src="assets/img/CustSegmentClusterModel.png" width="100%" ></center>
 <hr>
 
+<br>
+
 ## Deep Learning Models
 
 ### Melanoma Detection - CNN Classification
@@ -117,6 +132,8 @@ Recurrent Neural Networks (RNNs) are a class of neural networks designed for **p
 
 <center><img src="assets/img/GestureRecogRNNModel.png" width="100%" ></center>
 <hr>
+
+<br>
 
 ## Natural Language Processing (NLP) Models
 
