@@ -9,6 +9,13 @@ A **Program Management Framework** serves as a structured approach to plan, orga
 <center><img src="assets/img/DeliveryMgmtFrmwrk.png" width="100%" ></center>
 <hr>
 
+### Custom Application Development (CAD) Method
+
+Many times custom development projects fail because of lack of following software engineering disciplines. I had plenty of learnings from my **Delivery Excellence Leadership** experience, while reviewing critical projects, regarding why projects fail. I have put together these learnings in the form of a practical yet effective <a href="docs/Custom App Dev Method.xlsx">CAD Method</a> that I have succesfully used in complex development projects. I hope that budding delivery managers leverage these best practices (refer the <a href="docs/CAD Method Overview.pdf">Method overview</a>) to drive quality projects in their career.
+
+<center><img src="assets/img/CADMethod.png" width="100%" ></center>
+<hr>
+
 <br>
 
 # Application Development Portfolio
