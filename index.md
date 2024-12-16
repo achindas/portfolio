@@ -21,9 +21,16 @@ A **Program Management Framework** serves as a structured approach to plan, orga
 
 ### Custom Application Development (CAD) Method
 
-Many times custom development projects fail because of lack of following software engineering disciplines. I had plenty of learnings from my **Delivery Excellence Leadership** experience, while reviewing critical projects, regarding why projects fail. I have put together these learnings in the form of a practical yet effective <a href="docs/Custom App Dev Method.xlsx">CAD Method</a> that I have succesfully used in complex development projects. I hope that budding delivery managers leverage these best practices (refer the <a href="docs/CAD Method Overview.pdf">Method overview</a>) to drive quality projects in their career.
+Many times custom development projects fail because of lack of following software engineering disciplines. I had plenty of learnings from my **Delivery Excellence Leadership** experience, while reviewing critical projects, regarding why projects fail. I have put together these learnings in the form of a practical yet effective <a href="docs/Custom App Dev Method.xlsx">CAD Method</a> that I have successfully used in complex development projects. I hope that budding delivery managers leverage these best practices (refer the <a href="docs/CAD Method Overview.pdf">Method overview</a>) to drive quality projects in their career.
 
 <center><img src="assets/img/CADMethod.png" width="100%" ></center>
+<hr>
+
+### AI-Integrated Custom Application Development (AICAD) Method
+
+With the rise of AI-powered applications, traditional development methods need a good face-lift to integrate AI-powered features. Drawing from my understanding of AI-enabled projects, I developed the AI-Integrated Custom Application Development <a href="docs/AI-Integrated CAD Method V1.0.xlsx">(AICAD) Method.</a> This method **enhances the classic CAD approach** by incorporating AI-specific phases, roles, and deliverables, particularly focussing on collection and transformation of data for training AI models. AI practitioners can leverage this method (<a href="docs/AICAD Method Overview.pdf">Method overview</a>) to drive smarter, data-driven projects with precision.
+
+<center><img src="assets/img/AICADMethod.png" width="100%" ></center>
 <hr>
 
 <br>
