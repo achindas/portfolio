@@ -41,7 +41,7 @@ With the rise of AI-powered applications, traditional development methods need a
 
 ### BookGenie Chatbot - Streamlit, LangChain, Llama 2, Pinecone
 
-**BookGenie Chatbot** is an interactive Streamlit application that enables users to upload books in PDF format and engage in meaningful conversations about the content. This project leverages **LangChain** for text processing and embeddings, **Pinecone** as a vector database for efficient similarity search, and state-of-the-art language models like **Llama 2 and google/flan-t5-large** for smart responses. This project is an apt starting point for **GenAI developers** to explore how GenAI technologies can be combined to build practical, cutting-edge applications for various domains.
+**BookGenie Chatbot** is an interactive Streamlit application that enables users to upload books in PDF format and engage in meaningful conversations about the content. This project leverages **LangChain** for text processing and embeddings, **Pinecone** as a vector database, and language models like **Llama 2 and google/flan-t5-large** for smart responses. This project is an apt starting point for GenAI developers to explore GenAI technologies to build practical, intelligent applications.
 
 [![View on GitHub](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/achindas/GenAI_BookGenie_LangChain_App)
 
