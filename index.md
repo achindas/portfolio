@@ -48,6 +48,15 @@ With the rise of AI-powered applications, traditional development methods need a
 <center><img src="assets/img/BookGenieGenAI.png" width="100%" ></center>
 <hr>
 
+### Finetuning LLM - Llama-2 with open Assistant Dataset
+
+This project demonstrates the fine-tuning of the state-of-the-art **Llama 2 language model** on an open assistant-styled dataset to **improve LLM query responses**. By leveraging advanced techniques like **Parameter-Efficient Fine-Tuning** (PEFT), the process was optimized for resource efficiency while achieving high performance. The fine-tuning process, with the model available on Hugging Face Hub, serves as a **blueprint** for adapting pre-trained models to specialized applications across domains.
+
+[![View on GitHub](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/achindas/Finetune_LLAMA2)
+
+<center><img src="assets/img/Llama2FineTune.png" width="100%" ></center>
+<hr>
+
 ## Deep Learning Models
 
 ### Melanoma Detection - CNN Classification
