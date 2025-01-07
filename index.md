@@ -90,6 +90,15 @@ Conditional Random Fields (CRF) models excel in capturing **contextual dependenc
 <center><img src="assets/img/EntityRecogCRFModel.png" width="100%" ></center>
 <hr>
 
+### Automatic Ticket Classification - Topic Modeling by NMF
+
+This project automates customer support ticket classification using **topic modeling** and machine learning. Topics were extracted using **Non-Negative Matrix Factorisation (NMF)** and used to create labeled datasets for training models. **Logistic Regression** achieved the best performance with 91% accuracy. The solution combines unsupervised and supervised techniques to enhance ticket management efficiency.
+
+[![View on GitHub](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/achindas/TicketClassNMFModel)
+
+<center><img src="assets/img/TicketClassNMF.png" width="100%" ></center>
+<hr>
+
 <br>
 
 ## Machine Learning Models
