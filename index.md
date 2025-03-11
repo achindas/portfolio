@@ -57,6 +57,15 @@ This project demonstrates the fine-tuning of the state-of-the-art **Llama 2 lang
 <center><img src="assets/img/Llama2FineTune.png" width="100%" ></center>
 <hr>
 
+### Insurance Chatbot - RAG Pipeline with ChromaDB & OpenAI
+
+This project leverages **Retrieval-Augmented Generation (RAG) with ChromaDB** to build an AI-powered chatbot capable of answering company-specific **Group Life Insurance policy** queries with high accuracy. By chunking policy documents at the Article level, embedding them with **MiniLM & OpenAI models**, and retrieving the most relevant sections, the chatbot ensures context-aware responses with citations. The approach can be used to similar enterprise use cases requiring AI-driven document comprehension.
+
+[![View on GitHub](https://img.shields.io/badge/Click_for_Project_Details-blue?style=for-the-badge&logo=GitHub&labelColor=grey)](https://github.com/achindas/HelpMateBotRAG)
+
+<center><img src="assets/img/HelpMateBotRAG.png" width="100%" ></center>
+<hr>
+
 ## Deep Learning Models
 
 ### Melanoma Detection - CNN Classification
